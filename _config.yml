@@ -12,6 +12,7 @@ permalink: /:title/
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 google_analytics: 'UA-215888154-1'
 # Exclude from processing.
