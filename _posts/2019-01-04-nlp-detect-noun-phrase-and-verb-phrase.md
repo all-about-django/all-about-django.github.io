@@ -1,5 +1,5 @@
 ---
-title: "Nlp &#58; Detect Noun Phrase and Verb Phrase"
+title: "Nlp : Detect Noun Phrase and Verb Phrase"
 layout: post
 date: 2019-01-04 18:30
 tag:

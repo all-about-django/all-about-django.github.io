@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EvalAI&#58; Processing submissions using RabbitMQ
+title: "EvalAI: Processing submissions using RabbitMQ"
 date: 2017-07-23 13:30
 tag:
 - opensource
