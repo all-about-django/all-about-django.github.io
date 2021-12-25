@@ -1,5 +1,5 @@
 ---
-title: "Django &#58; QuerySet Anti patterns"
+title: "Django : QuerySet Anti patterns"
 layout: post
 date: 2019-01-06 13:30
 tag:

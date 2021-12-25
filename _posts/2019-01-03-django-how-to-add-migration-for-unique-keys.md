@@ -1,5 +1,5 @@
 ---
-title: "Django &#58; How to add migration for unique keys"
+title: "Django : How to add migration for unique keys"
 layout: post
 date: 2019-01-03 17:30
 tag:

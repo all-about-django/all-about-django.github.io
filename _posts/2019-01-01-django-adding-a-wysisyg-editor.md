@@ -1,5 +1,5 @@
 ---
-title: "Django &#58; Adding a WYSIWYG Editor"
+title: "Django : Adding a WYSIWYG Editor"
 layout: post
 date: 2019-01-01 18:00
 tag:
